@@ -33,7 +33,7 @@
 ### ⭐ Credits
 
 * [Contributors and Package History](https://cran.r-project.org/web/packages/volesti/index.html)
-* [List of Publications](https://journal.r-project.org/archive/2021/RJ-2021-077/index.html)
+* [List of Publications](https://volesti.readthedocs.io/en/latest/misc/publications.html)
 ### © Copyright and Licensing
 
 Copyright (c) 2012-2022 Vissarion Fisikopoulos\
